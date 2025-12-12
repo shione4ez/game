@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Что означает аббревиатура HTTP?",
+    "options": [
+      "Hyper Text Transfer Protocol",
+      "High Tech Transfer Process",
+      "Hyper Transfer Text Protocol",
+      "Home Tool Transfer Protocol"
+    ],
+    "answer": 0,
+    "category": "Интернет",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Сколько элементов в современной периодической таблице Менделеева?",
+    "options": [
+      "92",
+      "118",
+      "126",
+      "138"
+    ],
+    "answer": 1,
+    "category": "Химия",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Кто открыл закон всемирного тяготения?",
+    "options": [
+      "Эйнштейн",
+      "Ньютон",
+      "Галилей",
+      "Коперник"
+    ],
+    "answer": 1,
+    "category": "Физика",
+    "difficulty": "medium"
+  },
+  {
+    "question": "В каком году человек впервые полетел в космос?",
+    "options": [
+      "1957",
+      "1961",
+      "1969",
+      "1975"
+    ],
+    "answer": 1,
+    "category": "История",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Какой океан самый большой по площади?",
+    "options": [
+      "Атлантический",
+      "Индийский",
+      "Северный Ледовитый",
+      "Тихий"
+    ],
+    "answer": 3,
+    "category": "География",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Как называется самая высокая гора в мире?",
+    "options": [
+      "Килиманджаро",
+      "Эверест",
+      "Мак-Кинли",
+      "Аконкагуа"
+    ],
+    "answer": 1,
+    "category": "География",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Кто написал роман 'Преступление и наказание'?",
+    "options": [
+      "Толстой",
+      "Достоевский",
+      "Чехов",
+      "Гоголь"
+    ],
+    "answer": 1,
+    "category": "Литература",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Сколько клавиш у стандартного пианино?",
+    "options": [
+      "66",
+      "78",
+      "88",
+      "92"
+    ],
+    "answer": 2,
+    "category": "Музыка",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Какой химический элемент обозначается символом 'Au'?",
+    "options": [
+      "Серебро",
+      "Железо",
+      "Золото",
+      "Алюминий"
+    ],
+    "answer": 2,
+    "category": "Химия",
+    "difficulty": "medium"
+  },
+  {
+    "question": "В каком году началась Вторая мировая война?",
+    "options": [
+      "1939",
+      "1941",
+      "1945",
+      "1914"
+    ],
+    "answer": 0,
+    "category": "История",
+    "difficulty": "medium"
+  }
+]

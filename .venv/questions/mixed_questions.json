@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Как называется операционная система с пингвином-талисманом?",
+    "options": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "Android"
+    ],
+    "answer": 2,
+    "category": "Компьютеры",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Что такое API?",
+    "options": [
+      "Application Programming Interface",
+      "Advanced Program Integration",
+      "Automated Process Interface",
+      "Application Process Integration"
+    ],
+    "answer": 0,
+    "category": "Программирование",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Какой алгоритм используется в блокчейне Bitcoin для достижения консенсуса?",
+    "options": [
+      "Proof of Stake",
+      "Proof of Work",
+      "Proof of Authority",
+      "Proof of History"
+    ],
+    "answer": 1,
+    "category": "Криптография",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Сколько планет в Солнечной системе?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "answer": 1,
+    "category": "Астрономия",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Как называется явление, когда луна полностью закрывает солнце?",
+    "options": [
+      "Лунное затмение",
+      "Солнечное затмение",
+      "Апогей",
+      "Перигей"
+    ],
+    "answer": 1,
+    "category": "Астрономия",
+    "difficulty": "medium"
+  }
+]
